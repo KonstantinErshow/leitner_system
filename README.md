@@ -1,4 +1,4 @@
-# leitner_system
-MVC web-app provides features for spaced-repetition learning by using Leitner learning system. 
+# PHP, MySQL, AngularJS Система интервальных повторений Лейтнера
+Информационная система предоставляет функциональности, позволяющие применить метод интервального повторения Лейтнера. Используется стек технологий, описанных в шапке с MVC-подходом. База данных реляционная, запросы через PDO на SQL.
 
 https://yadi.sk/i/t3dLcDELJKUt5Q - презентация (PDF) проекта
